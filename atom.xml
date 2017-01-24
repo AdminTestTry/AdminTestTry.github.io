@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>My Room 技能或是情感都需要一段文字来记述。</title>
+  <subtitle>MyRoom —— 技能或是情感都需要一段文字来记述。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://AdminTestTry.github.io/"/>
   <updated>2017-01-23T03:26:52.459Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://AdminTestTry.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>The Star</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/23/hello-world/"/>
-    <id>http://yoursite.com/2017/01/23/hello-world/</id>
+    <link href="http://AdminTestTry.github.io/2017/01/23/hello-world/"/>
+    <id>http://AdminTestTry.github.io/2017/01/23/hello-world/</id>
     <published>2017-01-23T08:17:43.449Z</published>
     <updated>2017-01-23T03:26:52.459Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>Linux（CentOS）下搭建hexo</title>
-    <link href="http://yoursite.com/2017/01/22/Linux%EF%BC%88CentOS%EF%BC%89%E4%B8%8B%E6%90%AD%E5%BB%BAhexo/"/>
-    <id>http://yoursite.com/2017/01/22/Linux（CentOS）下搭建hexo/</id>
+    <link href="http://AdminTestTry.github.io/2017/01/22/Linux%EF%BC%88CentOS%EF%BC%89%E4%B8%8B%E6%90%AD%E5%BB%BAhexo/"/>
+    <id>http://AdminTestTry.github.io/2017/01/22/Linux（CentOS）下搭建hexo/</id>
     <published>2017-01-22T01:30:00.000Z</published>
     <updated>2017-01-23T02:46:28.495Z</updated>
     
@@ -129,21 +129,21 @@
     
     </summary>
     
-      <category term="技术人生" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+      <category term="技术人生" scheme="http://AdminTestTry.github.io/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://AdminTestTry.github.io/tags/Hexo/"/>
     
-      <category term="MarkDown" scheme="http://yoursite.com/tags/MarkDown/"/>
+      <category term="MarkDown" scheme="http://AdminTestTry.github.io/tags/MarkDown/"/>
     
-      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="http://AdminTestTry.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>使用Hexo在本地搭建个人博客（Windows）</title>
-    <link href="http://yoursite.com/2017/01/22/%E4%BD%BF%E7%94%A8Hexo%E5%9C%A8%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88Windows%EF%BC%89/"/>
-    <id>http://yoursite.com/2017/01/22/使用Hexo在本地搭建个人博客（Windows）/</id>
+    <link href="http://AdminTestTry.github.io/2017/01/22/%E4%BD%BF%E7%94%A8Hexo%E5%9C%A8%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88Windows%EF%BC%89/"/>
+    <id>http://AdminTestTry.github.io/2017/01/22/使用Hexo在本地搭建个人博客（Windows）/</id>
     <published>2017-01-22T01:30:00.000Z</published>
     <updated>2017-01-23T02:21:55.634Z</updated>
     
@@ -173,16 +173,16 @@
     
     </summary>
     
-      <category term="技术人生" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+      <category term="技术人生" scheme="http://AdminTestTry.github.io/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://AdminTestTry.github.io/tags/Hexo/"/>
     
-      <category term="MarkDown" scheme="http://yoursite.com/tags/MarkDown/"/>
+      <category term="MarkDown" scheme="http://AdminTestTry.github.io/tags/MarkDown/"/>
     
-      <category term="PHP" scheme="http://yoursite.com/tags/PHP/"/>
+      <category term="PHP" scheme="http://AdminTestTry.github.io/tags/PHP/"/>
     
-      <category term="恋爱这条路，需要坚持，包容，耐心，信心，信任，关爱" scheme="http://yoursite.com/tags/%E6%81%8B%E7%88%B1%E8%BF%99%E6%9D%A1%E8%B7%AF%EF%BC%8C%E9%9C%80%E8%A6%81%E5%9D%9A%E6%8C%81%EF%BC%8C%E5%8C%85%E5%AE%B9%EF%BC%8C%E8%80%90%E5%BF%83%EF%BC%8C%E4%BF%A1%E5%BF%83%EF%BC%8C%E4%BF%A1%E4%BB%BB%EF%BC%8C%E5%85%B3%E7%88%B1/"/>
+      <category term="恋爱这条路，需要坚持，包容，耐心，信心，信任，关爱" scheme="http://AdminTestTry.github.io/tags/%E6%81%8B%E7%88%B1%E8%BF%99%E6%9D%A1%E8%B7%AF%EF%BC%8C%E9%9C%80%E8%A6%81%E5%9D%9A%E6%8C%81%EF%BC%8C%E5%8C%85%E5%AE%B9%EF%BC%8C%E8%80%90%E5%BF%83%EF%BC%8C%E4%BF%A1%E5%BF%83%EF%BC%8C%E4%BF%A1%E4%BB%BB%EF%BC%8C%E5%85%B3%E7%88%B1/"/>
     
   </entry>
   
