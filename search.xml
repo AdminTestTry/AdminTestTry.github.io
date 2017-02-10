@@ -4,6 +4,17 @@
   
     
     <entry>
+      <title><![CDATA[查找的博客文章]]></title>
+      <url>http://AdminTestTry.github.io/2017/02/07/%E6%9F%A5%E6%89%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<h3 id="php"><a href="#php" class="headerlink" title="php"></a>php</h3><blockquote>
+<p>浅谈php脚本，原始出处：<a href="http://rainbird.blog.51cto.com/211214/272550/" target="_blank" rel="external">http://rainbird.blog.51cto.com/211214/272550/</a> 作者：51CTO博主 rainbird2<br>如何在CentOS配置Apache的HTTPS服务，原始出处<a href="http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html" target="_blank" rel="external">http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html</a> 出处：字节技术<br><a id="more"></a><br>CentOS 6.5使用yum快速搭建LAMP环境，原始出处：<a href="http://www.linuxidc.com/Linux/2014-07/104563.htm" target="_blank" rel="external">http://www.linuxidc.com/Linux/2014-07/104563.htm</a> 来源：Linux社区<br>作者：skypegnu<br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm" target="_blank" rel="external">http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm</a><br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.laozuo.org/5628.html" target="_blank" rel="external">http://www.laozuo.org/5628.html</a><br>在CentOS配置Apache的HTTPS服务，原始链接：<a href="http://blog.csdn.net/wlzx120/article/details/52597338" target="_blank" rel="external">http://blog.csdn.net/wlzx120/article/details/52597338</a></p>
+<h3 id="注"><a href="#注" class="headerlink" title="注:"></a><font color="pink">注:</font></h3><font color="pink">记录一些比较好的博客文章，以备闲暇时候阅读</font>
+
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Linux服务器环境配置，phpStudy for Linux (lnmp+lamp一键安装包)]]></title>
       <url>http://AdminTestTry.github.io/2017/02/06/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%EF%BC%8CphpStudy%20for%20Linux%20(lnmp+lamp%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85)/</url>
       <content type="html"><![CDATA[<h3 id="安装说明"><a href="#安装说明" class="headerlink" title="安装说明"></a>安装说明</h3><blockquote>
