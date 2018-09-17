@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://AdminTestTry.github.io/"/>
-  <updated>2017-02-09T09:13:28.058Z</updated>
+  <updated>2017-02-10T01:32:52.990Z</updated>
   <id>http://AdminTestTry.github.io/</id>
   
   <author>
@@ -19,11 +19,12 @@
     <title>查找的博客文章</title>
     <link href="http://AdminTestTry.github.io/2017/02/07/%E6%9F%A5%E6%89%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
     <id>http://AdminTestTry.github.io/2017/02/07/查找的博客文章/</id>
-    <published>2017-02-07T01:35:15.000Z</published>
-    <updated>2017-02-09T09:13:28.058Z</updated>
+    <published>2017-02-07T01:33:55.939Z</published>
+    <updated>2017-02-10T01:32:52.990Z</updated>
     
     <content type="html"><![CDATA[<h3 id="php"><a href="#php" class="headerlink" title="php"></a>php</h3><blockquote>
-<p>浅谈php脚本，原始出处：<a href="http://rainbird.blog.51cto.com/211214/272550/" target="_blank" rel="external">http://rainbird.blog.51cto.com/211214/272550/</a> 作者：51CTO博主 rainbird2<br>如何在CentOS配置Apache的HTTPS服务，原始出处<a href="http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html" target="_blank" rel="external">http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html</a> 出处：字节技术<br><a id="more"></a><br>CentOS 6.5使用yum快速搭建LAMP环境，原始出处：<a href="http://www.linuxidc.com/Linux/2014-07/104563.htm" target="_blank" rel="external">http://www.linuxidc.com/Linux/2014-07/104563.htm</a> 来源：Linux社区<br>作者：skypegnu<br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm" target="_blank" rel="external">http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm</a><br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.laozuo.org/5628.html" target="_blank" rel="external">http://www.laozuo.org/5628.html</a><br>在CentOS配置Apache的HTTPS服务，原始链接：<a href="http://blog.csdn.net/wlzx120/article/details/52597338" target="_blank" rel="external">http://blog.csdn.net/wlzx120/article/details/52597338</a></p>
+<p>浅谈php脚本，原始出处：<a href="http://rainbird.blog.51cto.com/211214/272550/" target="_blank" rel="external">http://rainbird.blog.51cto.com/211214/272550/</a> 作者：51CTO博主 rainbird2<br>如何在CentOS配置Apache的HTTPS服务，原始出处<a href="http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html" target="_blank" rel="external">http://www.4byte.cn/learning/120027/ru-he-zai-centos-pei-zhi-apache-de-https-fu-wu.html</a> 出处：字节技术<br><a id="more"></a></p>
+<h3 id="LAMP"><a href="#LAMP" class="headerlink" title="LAMP"></a>LAMP</h3><p>CentOS 6.5使用yum快速搭建LAMP环境，原始出处：<a href="http://www.linuxidc.com/Linux/2014-07/104563.htm" target="_blank" rel="external">http://www.linuxidc.com/Linux/2014-07/104563.htm</a> 来源：Linux社区<br>作者：skypegnu<br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm" target="_blank" rel="external">http://www.myhack58.com/Article/sort099/sort0102/2015/60882.htm</a><br>LAMP（Apache）环境部署安装SSL安全证书且可HTTPS加密网站，原始链接：<a href="http://www.laozuo.org/5628.html" target="_blank" rel="external">http://www.laozuo.org/5628.html</a><br>在CentOS配置Apache的HTTPS服务，原始链接：<a href="http://blog.csdn.net/wlzx120/article/details/52597338" target="_blank" rel="external">http://blog.csdn.net/wlzx120/article/details/52597338</a></p>
 <h3 id="注"><a href="#注" class="headerlink" title="注:"></a><font color="pink">注:</font></h3><font color="pink">记录一些比较好的博客文章，以备闲暇时候阅读</font>
 
 </blockquote>
