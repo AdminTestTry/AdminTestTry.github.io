@@ -4,6 +4,45 @@
 
     
   <url>
+    <loc>http://AdminTestTry.github.io/2018/09/18/%E7%9F%A5%E8%AD%98%E9%BB%9E%E7%B8%BD%E7%B5%90%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <lastmod>2018-09-18T07:42:14.765Z</lastmod>
+    <data>
+        <display>
+        <title>知識點總結（一）</title>
+        <pubTime>2018-09-18T01:27:01.000Z</pubTime>
+        
+        <tag>php</tag>
+         
+        <tag>知识总结</tag>
+         
+        <tag>魔术方法</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术人生" url="http://AdminTestTry.github.io/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://AdminTestTry.github.io/2018/09/18/PHP%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2018-09-18T01:30:50.446Z</lastmod>
+    <data>
+        <display>
+        <title>PHP知识点总结</title>
+        <pubTime>2018-09-18T01:30:38.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://AdminTestTry.github.io/2017/02/07/%E6%9F%A5%E6%89%BE%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2017-02-10T01:32:52.990Z</lastmod>
     <data>
@@ -28,8 +67,8 @@
 
     
   <url>
-    <loc>http://AdminTestTry.github.io/2017/02/06/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%EF%BC%8CphpStudy%20for%20Linux%20(lnmp+lamp%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85)/</loc>
-    <lastmod>2017-02-06T08:04:53.678Z</lastmod>
+    <loc>http://AdminTestTry.github.io/2017/02/06/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%EF%BC%8CphpStudy-for-Linux-lnmp-lamp%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85/</loc>
+    <lastmod>2017-02-06T08:04:53.679Z</lastmod>
     <data>
         <display>
         <title>Linux服务器环境配置，phpStudy for Linux (lnmp+lamp一键安装包)</title>

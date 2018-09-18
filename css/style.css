@@ -3127,3 +3127,7 @@ p.no-result {
   font-family: Times, Georgia serif;
   border-bottom: 2px solid #d3d3d3;
 }
+
+table tr:hover {
+    background: #efefef; 
+}
